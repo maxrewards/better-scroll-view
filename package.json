@@ -1,5 +1,5 @@
 {
-  "name": "better-scroll-view",
+  "name": "@maxrewards/better-scroll-view",
   "version": "1.0.0",
   "description": "a React Native Flatlist that takes its children as data arguments",
   "main": "dist/index.js",
