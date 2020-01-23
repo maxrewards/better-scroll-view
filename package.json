@@ -1,0 +1,28 @@
+{
+  "name": "better-scroll-view",
+  "version": "1.0.0",
+  "description": "a React Native Flatlist that takes its children as data arguments",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./dist && tsc --skipLibCheck",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxrewards/BetterScrollView.git"
+  },
+  "author": "Ibrahim Saberi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxrewards/BetterScrollView/issues"
+  },
+  "homepage": "https://github.com/maxrewards/BetterScrollView#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "@types/react-native": "^0.61.2",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5",
+    "typescript": "^3.7.5"
+  }
+}
